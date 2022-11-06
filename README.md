@@ -1,3 +1,3 @@
-# Electronics-repair
+Electronics-repair
 
 Здесь можно увидеть устранение неисправностей электрооборудования.
